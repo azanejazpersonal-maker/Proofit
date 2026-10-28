@@ -1,0 +1,6 @@
+{
+  "name": "PROOFIT - AI Scam & Safety Investigator",
+  "description": "Investigate suspicious messages, questionable job offers, online stores, and digital communications with evidence-based intelligence and uncertainty-aware reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
